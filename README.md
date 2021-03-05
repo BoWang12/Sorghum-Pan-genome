@@ -1,1 +1,1 @@
-# Sorghum-Pan-genome
+# Sorghum Pan-genome
