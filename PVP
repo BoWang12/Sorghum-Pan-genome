@@ -13,8 +13,6 @@ sort bam files, example:
 
 samtools sort PH328.bam -o PH328.sorted.bam -T S1;
 
-
-
 calling snp, e.g.:
 
 samtools mpileup -Ou -t "DP,DP4,AD" -q 20 -puv -Q 20 -g -f ../pangenome/pangenome.fa ../sra/sorted/Ai4.sorted.bam | bcftools call -vmO z -o Ai4.vcf.gz 
