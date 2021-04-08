@@ -1,8 +1,8 @@
-Datasets are in fastq format, example:
+Resequencing datasets are in fastq format generated from illumina platform, example:
 
 /data2/BNB/bwang/PVP/306865/*.fastq.gz 
 
-Previously I mapped these datasets to Tx2783 genome by bwa, and there is the folder:
+Next step is to map these datasets to Tx2783 genome by bwa, and there is the folder:
 
 /data2/BNB/bwang/PVP/306865/tx2783run
 
