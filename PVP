@@ -1,4 +1,4 @@
-I have moved the fastq datasets to kinsman, there are two folders and each folder has 5 samples, example:
+Datasets are in fastq format, example:
 
 /data2/BNB/bwang/PVP/306865/*.fastq.gz 
 
